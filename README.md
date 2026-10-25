@@ -6,13 +6,13 @@ Construyo sistemas empresariales (ERP/POS con facturación electrónica SUNAT) y
 
 ## Proyectos
 
-### [Aries OS](https://github.com/oropezadev-wq/aries-os)
+### [Aries OS](https://github.com/oropezadev-wq/aries-os-vitrina)
 
 Asistente personal por voz y texto que ejecuta acciones reales en la PC con un LLM local.
 
 ![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-🔗 Código público
+🔒 Código privado: acceso a pedido · vitrina con capturas en el enlace
 
 ### [TechNova](https://github.com/oropezadev-wq/technova-vitrina)
 
